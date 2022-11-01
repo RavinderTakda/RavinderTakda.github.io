@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.22f164dd.css",
-    "main.js": "/static/js/main.b0834773.js",
+    "main.css": "/static/css/main.2f022782.css",
+    "main.js": "/static/js/main.f885c620.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/jcrew.jpg": "/static/media/jcrew.9b9928a61f6865d16287.jpg",
     "static/media/OverStock.jpg": "/static/media/OverStock.8bf0082333ce7de39b0b.jpg",
     "static/media/nordstorm.jpg": "/static/media/nordstorm.eabe4e824d1420db182a.jpg",
     "static/media/Ravinder_Saini_Resume.pdf": "/static/media/Ravinder_Saini_Resume.09e227995a5caf3abe45.pdf",
+    "static/media/indeed.jpg": "/static/media/indeed.4fa3b3106f0cd258723d.jpg",
     "static/media/profilepic.jpg": "/static/media/profilepic.510cbc66fd4b7b458dab.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.22f164dd.css.map": "/static/css/main.22f164dd.css.map",
-    "main.b0834773.js.map": "/static/js/main.b0834773.js.map",
+    "main.2f022782.css.map": "/static/css/main.2f022782.css.map",
+    "main.f885c620.js.map": "/static/js/main.f885c620.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22f164dd.css",
-    "static/js/main.b0834773.js"
+    "static/css/main.2f022782.css",
+    "static/js/main.f885c620.js"
   ]
 }
